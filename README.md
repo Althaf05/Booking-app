@@ -1,6 +1,6 @@
-# Getting Started with Create React App
 
-## Available Scripts
+
+## Hotel Booking app
 
 In the project directory, you can run:
 
