@@ -2,7 +2,8 @@
 
 ## Hotel Booking app
 
-In the project directory, you can run:
+A website where users can book a hotel with suitable requirements. 
+The application was developed to simplify hotel operations by automating them.
 
 ### `npm start`
 
